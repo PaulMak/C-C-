@@ -1,0 +1,1 @@
+This is the example of sharing global variable between main process and thread by using semaphore

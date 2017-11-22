@@ -1,0 +1,1 @@
+thread-create creates 3 threads with sample date, joints them and prints result

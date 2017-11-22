@@ -1,0 +1,1 @@
+thread_cancel tests cancellation with thread set to non-cancellable state 
